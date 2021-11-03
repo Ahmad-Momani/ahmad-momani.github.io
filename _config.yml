@@ -86,8 +86,8 @@ author:
   location         : "Binghamton University"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : #"http://yourfullgooglescholarurl.com"
-  email            :
+  googlescholar    : #"https://scholar.google.com/citations?user=ob22iNAAAAAJ&hl=en"
+  email            : "ahmad.momani@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : #"https://www.linkedin.com/in/ahmad-momani"
   orcid            : #"http://orcid.org/yourorcidurl"
   pinterest        :
   soundcloud       :
